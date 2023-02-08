@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saat, kronometre tarzı uygulamalar", "Saat, kronometre tarzı uygulamalar.csproj", "{2AFB5FB2-497E-4006-ACB8-41F0324F4FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AFB5FB2-497E-4006-ACB8-41F0324F4FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AFB5FB2-497E-4006-ACB8-41F0324F4FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AFB5FB2-497E-4006-ACB8-41F0324F4FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AFB5FB2-497E-4006-ACB8-41F0324F4FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AE43B16-C7E1-4AA8-A461-5D7A364560D2}
+	EndGlobalSection
+EndGlobal
